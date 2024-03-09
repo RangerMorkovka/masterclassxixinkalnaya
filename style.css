@@ -13,7 +13,7 @@ a{
     width:100℅;
     height:100vh;
   }
-.menu__item{
+.menu_item{
     font-family: "Roboto";
     font-style: normal;
     font-weight: 500;
@@ -24,7 +24,7 @@ a{
     margin-left: 20px;
     }
 
-.menu__item:nth-child(1) {
+.menu_item:nth-child(1) {
     margin-left: 0px;
   }    
 .container{
