@@ -24,7 +24,7 @@ a{
     margin-left: 20px;
     }
 
-.menu__item:nth-child(1){
+.menu__item:nth-child(1) {
     margin-left: 0px;
   }    
 .container{
